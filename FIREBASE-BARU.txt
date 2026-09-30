@@ -1,0 +1,1 @@
+PENTING: Isi firebaseConfig di index.html menggunakan konfigurasi dari Firebase Project BARU. Jangan gunakan konfigurasi database lama.
